@@ -1,4 +1,4 @@
-package com.fiap.eca.model;
+package com.fiap.eca.api.model;
 
 import jakarta.persistence.*;
 
